@@ -1,5 +1,4 @@
 C:\ProjectsAPP\TodoApi\bin\Debug\net5.0\publish\TodoApi.exe
-C:\ProjectsAPP\TodoApi\bin\Debug\net5.0\publish\web.config
 C:\ProjectsAPP\TodoApi\bin\Debug\net5.0\publish\appsettings.Development.json
 C:\ProjectsAPP\TodoApi\bin\Debug\net5.0\publish\appsettings.json
 C:\ProjectsAPP\TodoApi\bin\Debug\net5.0\publish\TodoApi.dll
