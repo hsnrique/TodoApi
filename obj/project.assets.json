@@ -7321,7 +7321,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\henry\\.nuget\\packages\\": {}
+    "C:\\Users\\henry\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -7332,6 +7333,9 @@
       "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
       "outputPath": "C:\\ProjectsAPP\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
